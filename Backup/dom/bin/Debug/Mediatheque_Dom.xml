@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Application : Mediatheque -->
+<Mediatheque>
+  <Oeuvre>
+    <Titre>L'Auberge des pauvres</Titre>
+    <Auteur>Tahar Ben Jelloun</Auteur>
+  </Oeuvre>
+  <Oeuvre>
+    <Titre>La Mère du printemps</Titre>
+    <Auteur>Driss Chraibi</Auteur>
+  </Oeuvre>
+  <Oeuvre>
+    <Titre>Casablanca en mouvement</Titre>
+    <Auteur>Zakya Daoud</Auteur>
+  </Oeuvre>
+  <Oeuvre>
+    <Titre>Le pain nu</Titre>
+    <Auteur>Mohamed Choukri</Auteur>
+  </Oeuvre>
+  <Oeuvre>
+    <Titre>le passé simple</Titre>
+    <Auteur>Driss chraibi</Auteur>
+  </Oeuvre>
+</Mediatheque>

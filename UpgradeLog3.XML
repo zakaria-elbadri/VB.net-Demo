@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="dom">
+</Property><Property Name="Solution File" Value="C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom.sln">
+</Property><Property Name="Date" Value="lundi 6 février 2012">
+</Property><Property Name="Time" Value="14:05">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="1" Project="dom" Source="dom\dom.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="dom" Source="dom\dom.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="dom" Source="dom\dom.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="dom.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="dom.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dom" Source="dom\dom.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

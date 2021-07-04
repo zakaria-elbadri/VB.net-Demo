@@ -1,0 +1,14 @@
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\obj\Debug\dom.exe
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\obj\Debug\dom.xml
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\obj\Debug\dom.pdb
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\bin\Debug\dom.exe
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\bin\Debug\dom.pdb
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\bin\Debug\dom.xml
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\obj\Debug\dom.Form1.resources
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\obj\Debug\dom.Resources.resources
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\loubna\Desktop\DOTNET END\dotnet\dom\dom\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Programme EMSI\4éme Année\Semestre 1\VB.net\dom\dom\obj\Debug\dom.exe
+D:\Programme EMSI\4éme Année\Semestre 1\VB.net\dom\dom\obj\Debug\dom.xml
+D:\Programme EMSI\4éme Année\Semestre 1\VB.net\dom\dom\obj\Debug\dom.pdb
